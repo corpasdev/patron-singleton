@@ -1,0 +1,7 @@
+# Node.js
+node_modules/
+
+# Compilación de TypeScript
+dist/
+*.js
+*.js.map
